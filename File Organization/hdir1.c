@@ -1,8 +1,4 @@
-/*
-    Hierarchical Directory Organization
-    Name:George M Cherian
-    Class:CS5A
-    Roll No:28  */
+//Hierarchical Directory Organization
 
 
 #include <stdio.h>
