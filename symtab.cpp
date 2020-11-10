@@ -1,8 +1,4 @@
-/* SYMTAB IMPLEMENTATION
-   George M Cherian
-   CS5A
-   Roll No : 28 
-*/
+/* SYMTAB IMPLEMENTATION */
 
 
 #include<iostream>
