@@ -1,8 +1,5 @@
 /*
 2 Pass Assembler - Pass One
-George M Cherian
-CS5A
-Roll No : 28
 */
 
 
