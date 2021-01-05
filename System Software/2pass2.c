@@ -1,8 +1,5 @@
 // < PASS 2 OF A 2 PASS ASSEMBLER >
-/* George M Cherian
-    CS5A
-    Roll No : 28
-*/
+
 
 #include <stdio.h>
 #include <string.h>
