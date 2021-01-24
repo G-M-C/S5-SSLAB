@@ -44,10 +44,10 @@ int main()
         {
             if (!philosophers_finished_eating[i])
             {
-                if (forks[i] && forks[(i + 1) % 5])
+                if (forks[i] && forks[(i + 1) % n])
                 {
                     forks[i] = false;
-                    forks[(i + 1) % 5] = false;
+                    forks[(i + 1) % n] = false;
                     printf("Philosopher %d is eating\n", i);
                     philosophers_finished_eating[i] = true;
                     flag = true;
