@@ -1,9 +1,5 @@
 // Dining Philosophers Problem
 
-/*  George M Cherian
-    CS5A
-    28   */
-
 
 #include<stdio.h>
 #include<stdlib.h>
